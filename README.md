@@ -11,6 +11,10 @@ Contact
 Projects
 Below is a list of the projects included in this repository. Each project has its own folder containing the source code, documentation, and any additional resources.
 
+Project 2: Factorial with Recursion
+
+Description: A Java program that calculates the factorial of a given number using recursion and handles user input validation. Technologies: Java, Scanner (for user input). Project Details: This program prompts the user to enter a positive integer (1-100), validates the input, and then displays the factorial of the entered number.
+
 Project 1: Calculator Application
 
 Description: A simple calculator application built using JavaScript and HTML/CSS.
