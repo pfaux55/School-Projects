@@ -19,30 +19,9 @@ Project 2: Factorial with Recursion
 
 Description: A Java program that calculates the factorial of a given number using recursion and handles user input validation. Technologies: Java, Scanner (for user input). Project Details: This program prompts the user to enter a positive integer (1-100), validates the input, and then displays the factorial of the entered number.
 
-Project 1: Calculator Application
 
-Description: A simple calculator application built using JavaScript and HTML/CSS.
-Technologies: JavaScript, HTML, CSS
-Project Details
-Project 2: Weather App
 
-Description: A weather application that fetches real-time weather data using an API.
-Technologies: Python, Flask, HTML/CSS
-Project Details
-Project 3: E-commerce Website
-
-Description: A basic e-commerce website with product listings, a shopping cart, and a checkout system.
-Technologies: PHP, MySQL, HTML/CSS, JavaScript
-Project Details
-Project 4: Blog Platform
-
-Description: A blog platform where users can create, edit, and delete blog posts.
-Technologies: Django, SQLite, HTML/CSS, JavaScript
-Project Details
-Technologies Used
-This repository includes projects developed with a variety of technologies, including but not limited to:
-
-Languages: Python, JavaScript, PHP, HTML, CSS
+Languages: Python, Java, JavaScript, PHP, HTML, CSS
 Frameworks: Flask, Django
 Databases: MySQL, SQLite
 Tools: Git, GitHub
