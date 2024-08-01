@@ -11,6 +11,8 @@ Contact
 Projects
 Below is a list of the projects included in this repository. Each project has its own folder containing the source code, documentation, and any additional resources.
 
+Java Projects:
+
 Project 1: LetterCrush, A Grid Puzzle Game
 
 Description: A Java implementation of a grid-based puzzle game similar to popular match-3 games. The program manages a grid of characters, applies gravity, removes matching lines, and implements a cascading effect. Technologies: Java, 2D arrays, object-oriented programming. Project Details: This project consists of two main classes: LetterCrush and Line. LetterCrush handles the game grid, including populating it with characters, applying gravity to make characters fall, removing lines of matching characters, and implementing a cascade effect. The Line class represents line segments on the grid, supporting both horizontal and vertical orientations. The game features include finding the longest line of matching characters, removing lines, and continuously applying gravity and removals until the grid stabilizes.
@@ -19,6 +21,9 @@ Project 2: Factorial with Recursion
 
 Description: A Java program that calculates the factorial of a given number using recursion and handles user input validation. Technologies: Java, Scanner (for user input). Project Details: This program prompts the user to enter a positive integer (1-100), validates the input, and then displays the factorial of the entered number.
 
+
+
+Python Projects:
 
 
 Languages: Python, Java
