@@ -22,9 +22,8 @@ Description: A Java program that calculates the factorial of a given number usin
 
 
 Languages: Python, Java
-Frameworks: Flask, Django
-Databases: MySQL, SQLite
 Tools: Git, GitHub
+
 Getting Started
 To get started with any of the projects, follow these steps:
 
