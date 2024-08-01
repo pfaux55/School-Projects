@@ -21,7 +21,7 @@ Description: A Java program that calculates the factorial of a given number usin
 
 
 
-Languages: Python, Java, JavaScript, PHP, HTML, CSS
+Languages: Python, Java
 Frameworks: Flask, Django
 Databases: MySQL, SQLite
 Tools: Git, GitHub
