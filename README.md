@@ -31,7 +31,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/pfaux55/SchoolProjects.git
 Navigate to the project folder:
 
 sh
