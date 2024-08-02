@@ -3,12 +3,19 @@ Welcome to my GitHub repository!
 This repository showcases various school projects I have completed as part of my coursework. These projects span multiple disciplines and technologies, reflecting my skills and growth as a developer.
 
 Table of Contents
+
 Projects
+
 Technologies Used
+
 Getting Started
+
 License
+
 Contact
+
 Projects
+
 Below is a list of the projects included in this repository. Each project has its own folder containing the source code, documentation, and any additional resources. Files that do not start with an @ were provided by the school.
 
 Java Projects:
