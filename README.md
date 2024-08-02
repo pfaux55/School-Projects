@@ -47,6 +47,15 @@ Technologies Used: Java, tree data structures, image processing, object-oriented
 
 Python Projects:
 
+Project 6: Tweet Sentiment Analysis
+
+Description: This project analyzes the sentiment of tweets based on keywords with assigned sentiment values. It prompts the user to input a TSV file containing keywords and their sentiment values, and a CSV file containing tweets and their metadata. The program calculates sentiment scores for each tweet, classifies them as positive, neutral, or negative, and generates a report including the average sentiment value for favorited and retweeted tweets. The output is written to a TXT file, providing a comprehensive analysis of the tweet dataset.
+Technologies Used: Python, file I/O, data processing, sentiment analysis.
+
+Project 7: Shopping Cart System
+
+Description: This project implements a comprehensive shopping cart system, including inventory management, shopping cart functionality, and a product catalog. The system allows users to manage products with attributes such as name, price, and category. Users can add or remove products from the inventory, add items to their shopping cart, view the contents of their cart, and categorize products by price. The program also includes functionality to populate the inventory and product catalog from CSV files, making it suitable for managing a dynamic shopping environment.
+Technologies Used: Python, object-oriented programming, file I/O, data structures.
 
 Technologies Used
 Languages: Java, Python
