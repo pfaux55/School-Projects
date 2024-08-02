@@ -1,6 +1,5 @@
 """
-CS1026a
-Assignment 04 - SHOPPING CART
+SHOPPING CART
 December 2nd, 2023
 Peter Faux
 pfaux 
