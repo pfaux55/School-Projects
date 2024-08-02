@@ -1,6 +1,5 @@
 """
-CS1026a
-Assignment 02 - Library System
+
 October 24, 2023
 Peter Faux
 pfaux 
