@@ -57,6 +57,11 @@ Project 7: Shopping Cart System
 Description: This project implements a comprehensive shopping cart system, including inventory management, shopping cart functionality, and a product catalog. The system allows users to manage products with attributes such as name, price, and category. Users can add or remove products from the inventory, add items to their shopping cart, view the contents of their cart, and categorize products by price. The program also includes functionality to populate the inventory and product catalog from CSV files, making it suitable for managing a dynamic shopping environment.
 Technologies Used: Python, object-oriented programming, file I/O, data structures.
 
+Project 8: Library System
+
+Description: This project implements a basic library management system, allowing users to manage a collection of books. Users can add new books with details such as name, author, edition, and ISBN, borrow books based on search criteria, return borrowed books using their ISBN, and view a list of all books with their availability status. The system maintains records of all books, tracks borrowed and available books, and keeps a log of users who have borrowed each book. The user interacts with the system through a menu-driven interface.
+Technologies Used: Python, file I/O, data structures, user input validation, object-oriented programming.
+
 Technologies Used
 Languages: Java, Python
 Tools: Git, GitHub
