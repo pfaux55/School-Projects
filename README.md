@@ -15,7 +15,7 @@ Java Projects:
 
 Project 1: LetterCrush, A Grid Puzzle Game
 
-Description: A Java implementation of a grid-based puzzle game similar to popular match-3 games. The program manages a grid of characters, applies gravity, removes matching lines, and implements a cascading effect. Technologies: Java, 2D arrays, object-oriented programming. Project Details: This project consists of two main classes: LetterCrush and Line. LetterCrush handles the game grid, including populating it with characters, applying gravity to make characters fall, removing lines of matching characters, and implementing a cascade effect. The Line class represents line segments on the grid, supporting both horizontal and vertical orientations. The game features include finding the longest line of matching characters, removing lines, and continuously applying gravity and removals until the grid stabilizes.
+Description: This project implements a Java-based match-3 puzzle game with a grid of characters. It includes two main classes: LetterCrush, which manages the grid by populating it, applying gravity to make characters fall, removing matching lines, and handling cascading effects; and Line, which represents horizontal and vertical line segments on the grid. The game features the ability to find and remove the longest lines of matching characters, and it continuously applies gravity and removal operations until the grid stabilizes. Technologies used include Java, 2D arrays, and object-oriented programming.
 
 Project 2: Factorial with Recursion
 
