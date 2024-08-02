@@ -35,6 +35,11 @@ Project 3: FrogPath, A Pathfinding Simulation
 Description: This project simulates a frog navigating across a hexagonal grid pond, optimizing its path to consume flies while avoiding obstacles such as alligators and mud. The frog prioritizes landing on lily pads and reeds, leveraging a unique priority queue for path selection and a stack for path tracing. The simulation adapts to varied terrain and obstacles, using different cell types to represent the pond environment.
 Technologies Used: Java, priority queues, stacks, object-oriented programming.
 
+Project 4: LinkedNumber, A Linked List Number Representation and Base Conversion
+
+Description: This project involves the implementation of a number representation using a linked list, facilitating operations such as base conversion, digit manipulation, and validation within a specified numerical base. It supports initializing numbers from strings or integers, adding or removing digits at specific positions, and converting numbers between different bases. Custom exceptions are used to handle specific error cases related to the linked list operations and base conversions.
+Technologies Used: Java, linked lists, custom exceptions, base conversion, object-oriented programming. 
+
 Python Projects:
 
 
