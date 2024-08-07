@@ -79,9 +79,9 @@ Follow the project-specific setup instructions in the project's README file.
 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Contact
+### Contact
 If you have any questions or suggestions, feel free to contact me:
 
-Email: pmtfaux@gmail.com
-GitHub: pfaux55
+##### Email: pmtfaux@gmail.com
+##### GitHub: pfaux55
 Thank you for visiting my repository!
