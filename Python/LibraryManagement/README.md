@@ -23,7 +23,7 @@ a record of all books, tracks borrowed books, and monitors availability status.
 1. Open a terminal and navigate to the directory containing the `library.py` file.
 2. Run the program using the following command:
 
-   ```bash
+   
    python library.py
 
 ### Main Menu Options
