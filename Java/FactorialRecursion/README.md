@@ -17,7 +17,7 @@ and displays the factorial of that number.
 Open a terminal and navigate to the directory containing the `Factorial.java` file. 
 Compile the program using the following command:
 
-  	```bash
+  	
   	javac Factorial.java
 
 #### 2. Run the Program:
