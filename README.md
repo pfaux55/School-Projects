@@ -65,9 +65,9 @@ Technologies Used: Python, file I/O, data structures, user input validation, obj
 ### Technologies Used
 Languages: Java, Python
 #### Concepts: 
-*Data Structures
--Recursion
--Data Analytics
+- Data Structures
+- Recursion
+- Data Analytics
 -Data Cleaning
 -File I/O
 -Image Processing
@@ -77,7 +77,7 @@ Languages: Java, Python
 -Sentiment Analysis
 #### Data Structures: 
 -2D array
--Quad Tree
+- QuadTree
 -Priority Queue
 -Linked Lists
 -Stacks
