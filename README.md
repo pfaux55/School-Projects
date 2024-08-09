@@ -64,8 +64,23 @@ Technologies Used: Python, file I/O, data structures, user input validation, obj
 
 ### Technologies Used
 Languages: Java, Python
-Concepts: Data Structures, Recursion, Data Analytics, Data Cleaning, File I/O, Image Processing, Object Oriented Programming, Base Conversion, Exception Handling, Sentiment Analysis
-Data Structures: 2D array, Quad Tree, Priority Queue, Linked Lists, Stacks
+#### Concepts: 
+-Data Structures
+-Recursion
+-Data Analytics
+-Data Cleaning
+-File I/O
+-Image Processing
+-Object Oriented Programming
+-Base Conversion
+-Exception Handling
+-Sentiment Analysis
+#### Data Structures: 
+-2D array
+-Quad Tree
+-Priority Queue
+-Linked Lists
+-Stacks
 Tools: Git, GitHub
 ### Getting Started
 To get started with any of the projects, follow these steps:
