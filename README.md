@@ -76,12 +76,12 @@ Languages: Java, Python
 - Exception Handling
 - Sentiment Analysis
 #### Data Structures: 
-- 2D array
-- QuadTree
-- Priority Queue
+- 2D arrays
+- QuadTrees
+- Priority Queues
 - Linked Lists
 - Stacks
-Tools: Git, GitHub
+#### Tools: Git, GitHub
 ### Getting Started
 To get started with any of the projects, follow these steps:
 
