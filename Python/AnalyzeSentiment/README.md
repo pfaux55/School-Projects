@@ -1,4 +1,4 @@
-# AnalyzeSentiment
+# Sentiment Analysis Program
 ## Author
 Peter Faux
 ## Description
