@@ -93,7 +93,7 @@ Navigate to the project folder:
 cd SchoolProjects/project-folder-name
 Follow the project-specific setup instructions in the project's README file.
 
-License
+## License
 This project is licensed under the MIT License.
 
 By using this software, you agree to the terms and conditions of the MIT License, which permits unrestricted use, modification, and distribution of the software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
