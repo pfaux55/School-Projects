@@ -33,7 +33,7 @@ Project Details: This program prompts the user to enter a positive integer (1-10
 #### Project 3: FrogPath, A Pathfinding Simulation
 
 Description: This project simulates a frog navigating across a hexagonal grid pond, optimizing its path to consume flies while avoiding obstacles such as alligators and mud. The frog prioritizes landing on lily pads and reeds, leveraging a unique priority queue for path selection and a stack for path tracing. The simulation adapts to varied terrain and obstacles, using different cell types to represent the pond environment.
-Technologies Used: Java, priority queues, stacks, object-oriented programming.
+Technologies Used: Java, pathfinding, priority queues, stacks, object-oriented programming.
 
 #### Project 4: LinkedNumberConversion, A Linked List Number Representation and Base Conversion
 
