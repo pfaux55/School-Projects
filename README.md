@@ -75,6 +75,7 @@ Languages: Java, Python
 - Base Conversion
 - Exception Handling
 - Sentiment Analysis
+- Path Finding
 #### Data Structures: 
 - 2D arrays
 - QuadTrees
