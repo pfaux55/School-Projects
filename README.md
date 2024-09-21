@@ -2,6 +2,9 @@
 
 This repository showcases various school projects I have completed as part of my coursework. These projects span multiple disciplines and technologies, reflecting my skills and growth as a developer.
 
+## Author
+Peter Faux
+
 ## Table of Contents
 
 Projects
