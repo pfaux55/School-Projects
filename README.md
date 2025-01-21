@@ -17,11 +17,11 @@ License
 
 Contact
 
-Projects
+# Projects
 
 Below is a list of the projects included in this repository. Each project has its own folder containing the source code, documentation, and any additional resources. Files that do not start with an @ were provided by the school.
 
-### Java Projects:
+## Java Projects:
 #### Project 1: Factorial with Recursion
 
 Description: A Java program that calculates the factorial of a given number using recursion and handles user input validation.
@@ -48,8 +48,7 @@ Technologies Used: Java, linked lists, custom exceptions, base conversion, objec
 Description: This project implements a Quadrant Tree (Q-Tree) data structure to represent and process images. Each node in the tree encapsulates properties for a specific quadrant of an image, including its size, color, and position. The tree supports operations such as determining if a point lies within a node's quadrant, subdividing nodes, and finding nodes at specified levels. Additionally, the program can find pixels within an image that are the same color and display images at higher and lower resolutions using the average color of a quadrant, making it useful for efficient image processing and querying spatial data.
 Technologies Used: Java, tree data structures, image processing, object-oriented programming.
 
-### Python Projects:
-
+## Python Projects:
 #### Project 6: Tweet Sentiment Analysis
 
 Description: This project analyzes the sentiment of tweets based on keywords with assigned sentiment values. It prompts the user to input a TSV file containing keywords and their sentiment values, and a CSV file containing tweets and their metadata. The program calculates sentiment scores for each tweet, classifies them as positive, neutral, or negative, and generates a report including the average sentiment value for favorited and retweeted tweets. The output is written to a TXT file, providing a comprehensive analysis of the tweet dataset.
@@ -65,7 +64,7 @@ Technologies Used: Python, file I/O, data structures, user input validation, obj
 Description: This project implements a comprehensive shopping cart system, including inventory management, shopping cart functionality, and a product catalog. The system allows users to manage products with attributes such as name, price, and category. Users can add or remove products from the inventory, add items to their shopping cart, view the contents of their cart, and categorize products by price. The program also includes functionality to populate the inventory and product catalog from CSV files, making it suitable for managing a dynamic shopping environment.
 Technologies Used: Python, object-oriented programming, file I/O, data structures.
 
-### Technologies Used
+## Technologies Used
 Languages: Java, Python
 #### Concepts: 
 - Data Structures
@@ -86,7 +85,7 @@ Languages: Java, Python
 - Linked Lists
 - Stacks
 #### Tools: Git, GitHub
-### Getting Started
+## Getting Started
 To get started with any of the projects, follow these steps:
 
 Clone the repository:
@@ -104,7 +103,7 @@ By using this software, you agree to the terms and conditions of the MIT License
 See the LICENSE file for the complete license text.
 
 
-### Contact
+## Contact
 If you have any questions or suggestions, feel free to contact me:
 
 ##### Email: pmtfaux@gmail.com
