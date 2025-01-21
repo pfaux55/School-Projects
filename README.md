@@ -7,15 +7,15 @@ Peter Faux
 
 ## Table of Contents
 
-Projects
+[Projects](#projects)
 
-Technologies Used
+[Technologies Used](#technologies-used)
 
-Getting Started
+[Getting Started](#getting-started)
 
-License
+[License](#license)
 
-Contact
+[Contact](#contact)
 
 # Projects
 
